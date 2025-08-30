@@ -4,4 +4,8 @@ class MathUtils
     {
         return a + b;
     }
+
+    public static void main(String[] args) {
+        
+    }
 }
